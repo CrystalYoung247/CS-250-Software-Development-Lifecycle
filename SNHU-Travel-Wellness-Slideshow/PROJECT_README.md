@@ -1,4 +1,4 @@
-# SNHU Travel — Wellness Destinations Slideshow
+# SNHU Travel: Wellness Destinations Slideshow
 
 A Java Swing slideshow created for SNHU CS-250: Software Development Lifecycle. The application presents five wellness-themed travel destinations with images, descriptions, and Previous/Next navigation.
 
